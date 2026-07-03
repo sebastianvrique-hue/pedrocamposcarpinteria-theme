@@ -3,7 +3,7 @@
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Pedro Campos Carpintería — muebles y trabajos en madera a medida.">
+<meta name="description" content="Pedro Campos Carpintería y Obras Menores — Pisos, techos, ventanas, terrazas, quinchos y ampliaciones en la Región de La Araucanía.">
 <?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>

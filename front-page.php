@@ -28,40 +28,40 @@ get_header();
 
 <section id="inicio" class="hero">
   <div class="container">
-    <h1>Muebles y trabajos en madera a medida</h1>
-    <p>Transformamos madera en piezas únicas para tu hogar o negocio, con dedicación y oficio en cada detalle.</p>
-    <a class="btn" href="#contacto">Solicita tu cotización</a>
+    <h1>Carpintería y Obras Menores</h1>
+    <p>Maestro de la madera en obras menores. Desde pequeños detalles hasta grandes transformaciones, cada proyecto es una historia que contar.</p>
+    <a class="btn" href="https://wa.me/56961043700" target="_blank" rel="noopener">Cotiza por WhatsApp</a>
   </div>
 </section>
 
 <section id="servicios">
   <div class="container">
-    <h2>Nuestros Servicios</h2>
-    <p class="section-lead">Trabajamos cada proyecto a medida, cuidando el detalle y la calidad de los materiales.</p>
+    <h2>Todo lo que necesitas, en un solo lugar</h2>
+    <p class="section-lead">Trabajo responsable, detalles que marcan la diferencia.</p>
     <div class="grid-3">
       <div class="card">
-        <h3>Muebles a Medida</h3>
-        <p>Diseño y fabricación de muebles personalizados para living, cocina, dormitorio y oficina.</p>
+        <h3>Pisos</h3>
+        <p>Instalación y reparación de pisos de madera y flotantes.</p>
       </div>
       <div class="card">
-        <h3>Closets y Placares</h3>
-        <p>Soluciones de almacenamiento a medida, optimizando cada espacio de tu hogar.</p>
+        <h3>Techos</h3>
+        <p>Construcción, reparación y mantención de techos y estructuras.</p>
       </div>
       <div class="card">
-        <h3>Restauración</h3>
-        <p>Recuperamos y le damos nueva vida a muebles y piezas de madera antiguas.</p>
+        <h3>Ventanas</h3>
+        <p>Instalación, reparación y cambio de ventanas de madera.</p>
       </div>
       <div class="card">
-        <h3>Puertas y Ventanas</h3>
-        <p>Fabricación e instalación de puertas y ventanas de madera a medida.</p>
+        <h3>Terrazas</h3>
+        <p>Diseño y construcción de terrazas de madera.</p>
       </div>
       <div class="card">
-        <h3>Decks y Pérgolas</h3>
-        <p>Estructuras exteriores en madera, resistentes y con terminaciones de calidad.</p>
+        <h3>Quinchos</h3>
+        <p>Construcción de quinchos a medida para disfrutar en familia.</p>
       </div>
       <div class="card">
-        <h3>Proyectos Especiales</h3>
-        <p>¿Tienes una idea particular? Conversemos y le damos forma en madera.</p>
+        <h3>Ampliaciones</h3>
+        <p>Ampliaciones y remodelaciones para mejorar tus espacios.</p>
       </div>
     </div>
   </div>
@@ -70,7 +70,7 @@ get_header();
 <section id="galeria" class="alt-bg">
   <div class="container">
     <h2>Galería de Trabajos</h2>
-    <p class="section-lead">Algunos de nuestros proyectos recientes. (Fotos próximamente)</p>
+    <p class="section-lead">Estamos preparando esta sección con fotos de nuestros proyectos. Mientras tanto, míralos en nuestro Instagram.</p>
     <div class="gallery-grid">
       <div class="gallery-item">Foto próximamente</div>
       <div class="gallery-item">Foto próximamente</div>
@@ -79,6 +79,9 @@ get_header();
       <div class="gallery-item">Foto próximamente</div>
       <div class="gallery-item">Foto próximamente</div>
     </div>
+    <p style="text-align:center;margin-top:30px;">
+      <a class="btn" href="https://instagram.com/carpinteria_pedrocampos" target="_blank" rel="noopener">Ver más en Instagram</a>
+    </p>
   </div>
 </section>
 
@@ -86,16 +89,16 @@ get_header();
   <div class="container about-wrap">
     <div>
       <h2 style="text-align:left">Sobre Nosotros</h2>
-      <p>Pedro Campos Carpintería es un taller dedicado a la fabricación de muebles y trabajos en madera a medida. Combinamos técnicas tradicionales de carpintería con un enfoque moderno en diseño, entregando piezas únicas, duraderas y de calidad.</p>
-      <p>Cada proyecto es distinto, por eso trabajamos de la mano con cada cliente desde la idea inicial hasta la instalación final.</p>
+      <p>En Pedro Campos realizamos trabajos de carpintería y obras menores con atención personalizada y compromiso en cada detalle. Atendemos toda la Región de La Araucanía, construyendo espacios para disfrutar.</p>
+      <p>Calidad, compromiso y confianza en cada proyecto, sin importar su tamaño.</p>
     </div>
     <div class="card">
       <h3>¿Por qué elegirnos?</h3>
       <ul style="text-align:left">
-        <li>Diseño 100% personalizado</li>
-        <li>Materiales de calidad</li>
-        <li>Terminaciones prolijas</li>
-        <li>Cumplimiento de plazos</li>
+        <li>Experiencia</li>
+        <li>Responsabilidad</li>
+        <li>Puntualidad</li>
+        <li>Respuesta rápida y directa</li>
       </ul>
     </div>
   </div>
@@ -105,11 +108,11 @@ get_header();
   <div class="container contact-wrap">
     <div>
       <h2 style="text-align:left">Contacto</h2>
-      <p>¿Tienes un proyecto en mente? Escríbenos y te responderemos a la brevedad.</p>
+      <p>¿Tienes un proyecto pendiente en tu hogar? Cotiza y consulta por WhatsApp, respuesta rápida y directa.</p>
       <ul class="contact-info">
-        <li>📍 Chile</li>
-        <li>📞 +56 9 XXXX XXXX</li>
-        <li>✉️ contacto@pedrocamposcarpinteria.cl</li>
+        <li>📍 Región de La Araucanía</li>
+        <li>📱 <a href="https://wa.me/56961043700" target="_blank" rel="noopener">WhatsApp: +56 9 6104 3700</a></li>
+        <li>📷 <a href="https://instagram.com/carpinteria_pedrocampos" target="_blank" rel="noopener">@carpinteria_pedrocampos</a></li>
       </ul>
     </div>
     <?php if ( $pc_form_sent ) : ?>
